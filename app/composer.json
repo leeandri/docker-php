@@ -1,12 +1,12 @@
 {
-    "name": "garyclarke/translatethis",
-    "description": "A Docker demo app for garyclarke.tech",
+    "name": "leeandri/translatethis",
+    "description": "A Docker little test app",
     "minimum-stability": "dev",
     "license": "MIT",
     "authors": [
         {
-            "name": "Gary Clarke",
-            "email": "info@garyclarke.tech"
+            "name": "Lee Andri",
+            "email": "rlee.andri@gmail.com"
         }
     ],
     "require": {
